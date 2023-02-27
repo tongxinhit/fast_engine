@@ -1,0 +1,8 @@
+prefix=/home/tongxin/catkin_ws/devel
+
+Name: depth2cloud
+Description: Description of depth2cloud
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
